@@ -3,7 +3,7 @@
 * Implemented a To-Do List application, which allows user to enter, modify and delete/complete to-dos.
 * Created Front-Ends that supports Command Line, Desktop GUI, Web Application.
 
-**Skills**: Python, PySimpleGUI, Platypus
+**Skills**: Python, PySimpleGUI, Platypus, streamlit
 
 ## Command Line Interface (CLI)
 
