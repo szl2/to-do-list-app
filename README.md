@@ -20,6 +20,12 @@
 
 ## Web App
 
+- `web.py`: Deploy the app with web-based front-end user interface using `streamlit 1.29.0`
+- Used interactive elements, such as textbox and checkbox. 
+- Hosted the website at [to-do-list-web.streamlit.app/](https://to-do-list-web.streamlit.app/). 
+
+- ![web-example.png](./images/web-example.png)
+
 ## Tools
 
 * Python 3.11.5
