@@ -1,6 +1,6 @@
 # To Do List App
 
-* Implemented a To-Do List application, which allows user to enter, modify and delete/complete todos.
+* Implemented a To-Do List application, which allows user to enter, modify and delete/complete to-dos.
 * Created Front-Ends that supports Command Line, Desktop GUI, Web Application.
 
 **Skills**: Python, PySimpleGUI, Platypus
