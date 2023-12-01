@@ -40,3 +40,8 @@
   ```
   streamlit run ./web.py 
   ```
+* To get only necessary requirements.txt
+  ```
+  pip install pipreqs
+  pipreqs . --force
+  ```
